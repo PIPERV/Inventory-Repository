@@ -1,0 +1,11 @@
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\bin\Debug\net8.0\Inventory.Entities.deps.json
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\bin\Debug\net8.0\Inventory.Entities.dll
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\bin\Debug\net8.0\Inventory.Entities.pdb
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.AssemblyInfoInputs.cache
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.AssemblyInfo.cs
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.dll
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\refint\Inventory.Entities.dll
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.pdb
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\ref\Inventory.Entities.dll
