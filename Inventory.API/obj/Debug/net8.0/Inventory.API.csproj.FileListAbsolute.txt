@@ -34,3 +34,4 @@ C:\Users\andre\Documents\Practicas\Curso NET\Inventory.API\obj\Debug\net8.0\refi
 C:\Users\andre\Documents\Practicas\Curso NET\Inventory.API\obj\Debug\net8.0\Inventory.API.pdb
 C:\Users\andre\Documents\Practicas\Curso NET\Inventory.API\obj\Debug\net8.0\Inventory.API.genruntimeconfig.cache
 C:\Users\andre\Documents\Practicas\Curso NET\Inventory.API\obj\Debug\net8.0\ref\Inventory.API.dll
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.API\obj\Debug\net8.0\Inventory.API.sourcelink.json

@@ -1,3 +1,5 @@
+using System.Collections;
+
 namespace Inventory.Entities
 {
     public class Category
@@ -7,5 +9,8 @@ namespace Inventory.Entities
         public string? Description { get; set; }
         public DateTime CreatedAt { get; set; }
         public DateTime UpdatedAt { get; set; }
+
+        public IEnumerable<Product>? Products { get; set; }
+        
     }
 }

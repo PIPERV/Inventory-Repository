@@ -9,3 +9,4 @@ C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0
 C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\refint\Inventory.Entities.dll
 C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.pdb
 C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\ref\Inventory.Entities.dll
+C:\Users\andre\Documents\Practicas\Curso NET\Inventory.Entities\obj\Debug\net8.0\Inventory.Entities.sourcelink.json
